@@ -12,7 +12,7 @@ import org.junit.Rule
 import org.junit.Test
 
 /**
- * Tests adicionales de UI para la pantalla de cálculo de propina (TipCalculatorScreen).
+ * Tests de UI adicionales para la pantalla de cálculo de propina (TipCalculatorScreen).
  *
  * Utilizan createComposeRule para renderizar el composable de forma
  * aislada sin necesidad de lanzar la Activity completa. Se prueba
