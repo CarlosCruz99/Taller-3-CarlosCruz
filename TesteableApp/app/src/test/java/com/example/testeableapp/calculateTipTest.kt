@@ -4,6 +4,15 @@ import com.example.testeableapp.ui.Screens.calculateTip
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
+/**
+ * Tests unitarios para la función calculateTip.
+ *
+ * Se prueba la lógica de la función de forma aislada.
+ * Los tests verifican que la función maneje correctamente los diferentes
+ * casos de los parámetros, como valores positivos, valores negativos,
+ * redondeo y el funcionamiento en conjunto cuando se debe de dividir
+ * el total con la propina entre múltiples personas
+ */
 class calculateTipTest {
 
     /**
